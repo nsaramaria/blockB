@@ -1,0 +1,27 @@
+﻿  Validating sources
+  Copying sources remotely to 'fe80::48b4:4258:d9f7:ac1e%12'
+  Validating architecture
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  Camera.cpp
+  Game.cpp
+  Gui.cpp
+  imgui_draw.cpp
+  main.cpp
+  CubeModel.cpp
+  Level.cpp
+  imgui.cpp
+  ObjectManager.cpp
+  Graphics.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  Map.cpp
+  Input.cpp
+  imgui_widgets.cpp
+  imgui_demo.cpp
+  MyFiles.cpp
+  ObjectModel.cpp
+  TinyObjectLoader.cpp
+  Linking objects
+  HelloCubes.vcxproj -> C:\Users\nicol\Documents\UNIprojects\Block_B\HelloCubes - Copy\bin\ARM\Debug\HelloCubes.out

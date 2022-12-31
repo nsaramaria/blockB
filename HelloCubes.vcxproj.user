@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|ARM'">
+    <RemoteTarget>-1920111120;fe80::48b4:4258:d9f7:ac1e%12 (username=, port=22, authentication=Password)</RemoteTarget>
+    <PreLaunchCommand>export DISPLAY=:0</PreLaunchCommand>
+    <DebuggerFlavor>LinuxDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">
+    <RemoteTarget>-1920111120;raspberrypi.local (username=, port=22, authentication=Password)</RemoteTarget>
+  </PropertyGroup>
+</Project>
